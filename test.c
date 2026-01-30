@@ -31,7 +31,7 @@ int main()
 	if (guan.date == NULL)
 	{
 		printf("文件不存在，将创建新文件\n");
-		return;
+		return 1;
 	}
 	//开辟内存 
 	guan.cap = capacity;
