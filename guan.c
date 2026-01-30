@@ -490,4 +490,4 @@ void zhuzhuang2(guanlixiton* pc)
 	free(drinks_per_column);
 	free(drink_count_per_column);
 	free(fenlei);
-}
+}///ÄãºÃÄĞÄĞÅ®Å®
